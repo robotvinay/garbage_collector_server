@@ -95,7 +95,7 @@ const trip_message =  {
   },
   notification: {
     title: "Garbage Truck is near you around " + notify_distance_in_km + " km",
-    body: "Driver " + driver.data!.name + "is near you around " + notify_distance_in_km + " km",
+    body: "Driver " + driver.data!.name + " is near you around " + notify_distance_in_km + " km",
   }
 
 };
